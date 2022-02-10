@@ -1,0 +1,124 @@
+body {
+    padding: 0 auto;
+    margin: 0 auto;
+
+    background-image: url("https://images.hdqwalls.com/wallpapers/texture-graphic-abstract-colorful-background-y9.jpg");
+    background-repeat: no-repeat;
+    font-family: arial black;
+
+}
+
+.htable {
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+    padding-left: 40px;
+    padding-right: 93px;
+    /* box-sizing: border-box; */
+    /* border: 1px solid; */
+}
+
+.htable td span {
+    display: block;
+    background-color: yellow;
+    padding: 20px;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 10px;
+
+
+}
+
+.banner {
+    align-items: center;
+
+}
+
+.burger {
+    display: flex;
+    margin-left: 50px;
+}
+
+.price {
+    padding: 0 30px;
+}
+
+.price td {
+    width: 250px;
+    text-align: center;
+    background-color: yellow;
+    padding: 45px;
+    margin: 30px;
+
+}
+
+.spanprice {
+    font-size: 75px;
+    font-family: sans-serif;
+
+}
+
+.factor {
+    padding: 30px;
+}
+
+.factor table tr {
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 12px;
+    width: 150px;
+}
+
+.m1,
+.m2,
+.m3,
+.m4 {
+
+    padding: 30px;
+}
+
+.pigbanner {
+    background-color: aliceblue;
+    margin: 30px;
+
+}
+
+.breadbanner {
+    padding: 50px;
+    display: flex;
+    width: 75%;
+
+}
+
+.pdetails {
+    padding: 50px;
+    margin-left: 100px;
+    overflow: hidden;
+
+}
+
+.phead {
+    font-size: 35px;
+}
+
+button {
+    background-color: yellow;
+    padding: 10px;
+    width: 150px;
+}
+
+h3 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    background-color: rgb(49, 30, 119);
+    margin: 30px;
+    padding: 10px;
+    transition: .2s ease;
+}
+
+.imggallary tr td {
+    padding: 15px;
+}
